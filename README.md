@@ -8,9 +8,9 @@ This repository collects parts of the code contribution for the course IT3920 Ma
 
 **usecases**
 - nicla_vision_camera.ino (use case 3)
-- temp_octopus (use case 1)
+- temp_octopus (use case 1+2)
 
 
 *Note:*
-- A notebook is not provided for use case 3 as the device reacts directly with the environment and no data analysis in included in the use case.
-- An example file for the octopus collecting GPS signals is not added due to time constraints and no opportunity to test the device with GPS. 
+- A notebook is not provided for use case 3 as the device reacts directly with the environment and no data analysis is included in the use case.
+- The same use case file can be used to collect data for use case 1 and 2
